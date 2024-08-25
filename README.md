@@ -36,7 +36,7 @@
 
 3. **Configurar la Base de Datos**
 
-    Crea una base de datos en MySQL (por ejemplo, `libreria`). Configura las credenciales de MySQL en el archivo `.env`:
+    Crea una base de datos en MySQL (por ejemplo, `libreria`):
 
     ```plaintext
     DB_HOST=localhost
